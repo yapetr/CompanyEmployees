@@ -5,7 +5,7 @@ import tel_ran.employees.dao.Employee;
 import tel_ran.view.AbstractView;
 
 /*
- * mmm
+ * mmmm
  */
 public class CompanyFiller {
 	int amount;

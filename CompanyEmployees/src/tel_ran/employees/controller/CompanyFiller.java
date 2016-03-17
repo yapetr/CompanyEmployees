@@ -4,6 +4,9 @@ import tel_ran.employees.dao.Company;
 import tel_ran.employees.dao.Employee;
 import tel_ran.view.AbstractView;
 
+/*
+ * mmm
+ */
 public class CompanyFiller {
 	int amount;
 	Company company;
@@ -19,7 +22,7 @@ public class CompanyFiller {
 	public void hireEmployees() throws Exception {
 		for (int i = 0; i < amount; i++) {
 			Employee empl = createEmployee();
-			company.addEmployee(empl);
+			//company.addEmployee(empl);
 		}
 	}
 

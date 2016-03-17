@@ -15,7 +15,7 @@ import tel_ran.view.ViewRealConsole;
 public class CompanyAppl {
 
 	public static final String[] NAMES = {"Vasya","Moshe","Serg","Olya",
-			"Tanya","Yuri","Igor", "Arcady"};
+			"Manya","Yuri","Igor", "Arcady"};
 	public static final String[] POSITIONS = {"Engineer","SalesPerson",
 			"Programmer","Cleaner", "SalesManager"}; 
 	public static final int MIN_SALARY = 4_500;

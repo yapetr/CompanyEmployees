@@ -19,7 +19,7 @@ public class CompanyAppl {
 	public static final String[] POSITIONS = {"Engineer","SalesPerson",
 			"Programmer","Cleaner", "SalesManager"}; 
 	public static final int MIN_SALARY = 4_500;
-	public static final int MAX_SLARY  = 30_000;
+	public static final int MAX_SLARY  = 30_006;
 	public static final int MIN_HIRE_EMPLOYEES = 2;
 	public static final int MAX_HIRE_EMPLOYEES = 10;
 	
